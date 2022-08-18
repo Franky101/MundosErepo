@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 This is the second file, number of modifications: 
 
-Update desde el repositorio local0
+This es the merge between the Remote Repository and the local one. This is the version it must be saved
+
+#123
